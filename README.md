@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Chris! <br/> <a href="https://www.linkedin.com/in/chris-rugg-56143016/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
