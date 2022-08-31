@@ -4,7 +4,7 @@
 
 - <b>Using Mimikatz to gather NTLM passwords</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Simulation of the Pentesting Process (from OSINT to Final Report)</b>
+- <b>Pentesting Process (from OSINT to Final Report)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Website Hosted on Azure Cloud Platform </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
